@@ -79,7 +79,7 @@ diet2()
 }
 med()
 {
-	printf("This is Medicine Section\nFollow the link to know more: ");
+	printf("This is Medicine Section\nFollow the link to know more: https://www.medicalnewstoday.com/articles/320774.php#1");
 	
 }
 float cal(float w,float h)
